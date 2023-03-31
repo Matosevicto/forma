@@ -1,0 +1,165 @@
+.kontakt{
+    border: 1px;
+    border-color: #0B2447;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+#email{
+    width: 95%;
+    height: 30px;
+    margin-bottom: 20px;
+    
+}
+.email{
+    position: relative;
+    right: 304px;
+   bottom:5px;
+   padding: 10px;
+}
+#phone-number{
+    width: 95%;
+    height: 30px;
+    
+}
+.broj-mobitela-natpis{
+    position: relative;
+    right: 277px;
+    bottom: 5px;
+}
+.ime-prezime{
+    border: 1px;
+    border-color: #0B2447;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+#ime{
+    width: 95%;
+    height: 30px;  
+}
+.ime-natpis{
+    position: relative;
+    right: 277px;
+   bottom:6px;
+}
+.drzava-natpis{
+    position: relative;
+    right: 300px;
+   top:5px
+}
+.drzava{
+    width: 96%;
+    height: 35px; 
+
+}
+.options{
+    background-color: #fff;
+    text-align: start;
+    width: 90%;
+    position: relative;
+    bottom: 15.5px;
+    left:13px
+}
+.adresa-natpis{
+    position: relative;
+    right: 300px;
+   top:5px
+}
+.adresa{
+    width: 95%;
+    height: 30px;  
+}
+.poštanski-natpis{
+    position: relative;
+    right: 275.5px;
+    top:5px
+}
+
+.checkbox-round {
+    width: 1.3em;
+    height: 1.3em;
+    background-color: white;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 2px;
+    right: 10px;
+    
+}
+
+.checkbox-round:checked {
+    background-color: #0B2447;
+}
+.pouzece{
+    position: relative;
+    right: 270px;
+    margin-bottom: 100px;
+}
+.kartica{
+    position: relative;
+    right: 275px;
+    padding:15px;
+}
+.nacinPlacanja{
+    border: 1px;
+    border-color: #0B2447;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+.narudba{
+    padding: 25px 0px 25px 0px;
+    position:relative;
+    left:20px
+
+}
+.checkbox-square{
+    width: 1.3em;
+    height: 1.3em;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 2px;
+    right: 10px;
+    background-color: white;
+    
+}
+.checkbox-square:checked{
+    background-color: #0B2447;
+}
+
+.naruci-button{
+    text-align: center;
+    padding: 15px;
+  
+}
+p{
+    color: #0B2447;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h3{
+    color: #0B2447;
+    font-family:Arial, Helvetica, sans-serif;
+}
+label{
+    color: #0B2447;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.placanje{
+    padding-bottom: 10px;
+    
+}

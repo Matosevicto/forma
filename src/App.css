@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  
+}
+
+.naslov{
+  text-align: left;
+}
+.ispis{
+  border: 1px;
+    border-color: #0B2447;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: start;
+}
+.naruci{
+  text-align: center;
+  padding-bottom: 30px;
+}
